@@ -1,4 +1,7 @@
 # Something is missing here
+# require_relative '../lib/ruby_file.rb'
+require_relative './plant'
+
 
 class Garden
   attr_accessor :name
